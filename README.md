@@ -36,10 +36,13 @@ What is the length, capacity and memory address of your array? Explain the resul
 ## 3. Exploring the pop() method
 Add the following in the main function and then print the array:
 
+ ``` 
   ...
   arr.pop();
   arr.pop();
   arr.pop();
+ ```
+ 
 What is the length, capacity, and address of your array? Explain the result of your program after adding the new lines of code.
 
 ## 4. Understanding more about how arrays work

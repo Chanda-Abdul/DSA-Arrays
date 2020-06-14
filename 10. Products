@@ -1,0 +1,27 @@
+# 10. Products
+
+Given an array of numbers, write an algorithm to find out the products of every other number except the number at each index.
+
+Input:[1, 3, 9, 4] Output:[108, 36, 12, 27]
+
+
+````
+function product(arr) {
+ let output = []
+ for (let i = 0; i < arr.length; i++) {
+   let products = 1
+   for (let j = 0; j < arr.length; j++) {
+     if (i !== j) {
+       products *= arr[j]
+     }
+   }
+ output.push(products)
+   }
+  return output
+}
+
+product([1, 3, 9, 4])
+````
+
+
+This function has a polynomial time of O(n^2) because of the nested loops

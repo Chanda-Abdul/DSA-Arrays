@@ -13,11 +13,11 @@ To brush up on arrays, check out the resources below.
 
 # LeetCode Problem Set 
 
-- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) & [My Solution]()
-- [ ] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) & [My Solution]()
+- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/53.%20Maximum%20Subarray.md)
+- [ ] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) *
 - [ ] [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) 
-- [ ] [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) & [My Solution]()
-- [ ] [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) & [My Solution]()
+- [ ] [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) *
+- [ ] [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) *
 - [ ] [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
 
 # Techniques to solve problems using arrays

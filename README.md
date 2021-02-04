@@ -13,7 +13,7 @@ To brush up on arrays, check out the resources below.
 
 # LeetCode Problem Set 
 
-- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/53.%20Maximum%20Subarray.md)
+- [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/53.%20Maximum%20Subarray.md)
 - [ ] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) *
 - [ ] [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) 
 - [ ] [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) *

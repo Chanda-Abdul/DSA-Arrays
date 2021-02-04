@@ -1,3 +1,28 @@
+# Arrays
+
+## Arrays Resources
+
+To brush up on arrays, check out the resources below.
+
+1. _Grokking Algorithms_ by Aditya Bhargava is a must-read if you’re prepping for interviews. It is not language specific. Check out [Chapter 2, Selection Sort](https://livebook.manning.com/book/grokking-algorithms/chapter-2/)
+2. Recommended chapters from Allen B. Downey’s free computer science textbooks.
+    * _Think Data Structures_ is a general text about data structures that is not language specific. Check out [Chapter 2, “Analysis of Algorithms”](http://greenteapress.com/thinkdast/html/thinkdast003.html) and [Chapter 3, “ArrayList”](http://greenteapress.com/thinkdast/html/thinkdast004.html)
+    * _Think Python_ is a successor to “How To Think Like A Computer Scientist,” specific to Python. If you’d like to think about arrays in Python, check out [Chapter 10, “Lists”](http://greenteapress.com/thinkpython2/html/thinkpython2011.html)
+    * _Think Java_ is the Java version. If you’d like the Java perspective, check out [Chapter 8, “Arrays”](http://greenteapress.com/thinkjava6/html/thinkjava6009.html)
+3. _Harvard CS50 Lectures, 2019_ is a great place to start learning. The demonstration language is C, but you don’t need to know C to follow along. If you expand the bar just below the video window, where it has the picture of the cat for CS50, you can see links to specific timestamps. [Arrays are at 08:44](https://www.youtube.com/watch?v=4IrUAqYKjIA&t=524s)_
+
+# LeetCode Problem Set 
+
+- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) & [My Solution]( )
+- [ ] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) & [My Solution]( )
+- [ ] [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) 
+- [ ] [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) & [My Solution]( )
+- [ ] [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) & [My Solution]( )
+- [ ] [Count Number of Teams](1395. Count Number of Teams) 
+
+# Techniques to solve problems using arrays
+
+
 ## 1. Implement an Array class from scratch.
 Walk through each step of implementing an array. Don't rush through this by copying and pasting the code samples. After you've walked through it and you understand the code of the Array class, hide the sample code and try writing the Array class from scratch using the memory module here for allocating memory.
 

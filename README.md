@@ -19,9 +19,7 @@ To brush up on arrays, check out the resources below.
 - [x] [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/1266.%20Minimum%20Time%20Visiting%20All%20Points(Arrays).md)
 - [x] [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.md)
 - [ ] [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
-
-# Techniques to solve problems using arrays
-
+# 
 
 ## 1. Implement an Array class from scratch.
 Walk through each step of implementing an array. Don't rush through this by copying and pasting the code samples. After you've walked through it and you understand the code of the Array class, hide the sample code and try writing the Array class from scratch using the memory module here for allocating memory.

@@ -16,7 +16,7 @@ To brush up on arrays, check out the resources below.
 - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/53.%20Maximum%20Subarray.md)
 - [x] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/54.%20Spiral%20Matrix(Arrays).md)
 - [ ] [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) 
-- [ ] [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) *
+- [ ] [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/1266.%20Minimum%20Time%20Visiting%20All%20Points(Arrays).md)
 - [x] [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/1394.%20Find%20Lucky%20Integer%20in%20an%20Array.md)
 - [ ] [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)
 

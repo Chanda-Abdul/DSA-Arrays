@@ -120,6 +120,7 @@ Output:[108, 36, 12, 27]
 ## 11. 2D array
 Write an algorithm which searches through a 2D array, and whenever it finds a 0 should set the entire row and column to 0.
 
+````
 Input:
 [[1,0,1,1,0],
 [0,1,1,1,0],
@@ -132,14 +133,19 @@ Output:
 [0,0,1,1,0],
 [0,0,0,0,0],
 [0,0,1,1,0]];
+````
 
 ## 12. String rotation
 Given 2 strings, str1 and str2, write a program that checks if str2 is a rotation of str1.
 
+````
 Input: amazon, azonma
 
 Output: False
+````
+````
 
 Input: amazon, azonam
 
 Output: true
+````

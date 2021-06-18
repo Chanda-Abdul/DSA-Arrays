@@ -56,7 +56,7 @@ Add the following in the main function and then print the array:
  ```
     
 What is the length, capacity and memory address of your array? Explain the result of your program after adding the new lines of code.
-## 3. Exploring the pop() method
+## 3. Exploring the `pop()` method
 Add the following in the main function and then print the array:
 
  ``` 
@@ -69,13 +69,13 @@ Add the following in the main function and then print the array:
 What is the length, capacity, and address of your array? Explain the result of your program after adding the new lines of code.
 
 ## 4. Understanding more about how arrays work
-Print the 1st item in the array arr.
+Print the 1st item in the array `arr`.
 
-Empty the array and add just 1 item: arr.push("tauhida");
+Empty the array and add just 1 item: `arr.push("tauhida")`;
 
 Print this 1 item that you just added. What is the result? Can you explain your result?
 
-What is the purpose of the _resize() function in your Array class?
+What is the purpose of the `_resize()` function in your Array class?
 
 You can use JavaScript's built-in arrays to solve the following drills. After you write the algorithm, identify its time complexity and determine if it needs to be optimized. Start each problem by understanding the problem and coming up with some sample input and output. For your convenience, a few sample input and output are provided.
 
@@ -95,9 +95,10 @@ Imagine you have an array of numbers. Write an algorithm to remove all numbers l
 
 ## 7. Max sum in the array
 You are given an array containing positive and negative integers. Write an algorithm which will find the largest sum in a continuous sequence.
-
+````
 Input: [4, 6, -3, 5, -2, 1]
 Output: 12
+````
 
 ## 8. Merge arrays
 Imagine you have 2 arrays which have already been sorted. Write an algorithm to merge the 2 arrays into a single array, which should also be sorted.
